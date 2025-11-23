@@ -4,14 +4,14 @@ This project is a lightweight task manager that runs entirely in the terminal.
 Tasks are saved locally in a tasks.json file so your data stays even after closing the program.
 It includes some fun productivity messages, innovative features (focus mode, automatic deadline warnings), and a clean task-tracking workflow.
 Features:
-✔ Add tasks with optional deadlines
-✔ Mark tasks as completed
-✔ Automatic daily completion streak messages
-✔ Deadline alerts (overdue / due soon)
-✔ Focus Mode → shows pending tasks one by one
-✔ Tasks saved in JSON
-✔ Clean terminal interface
-✔ No external frameworks required
+1.Add tasks with optional deadlines
+2.Mark tasks as completed
+3.Automatic daily completion streak messages
+4.Deadline alerts (overdue / due soon)
+5.Focus Mode → shows pending tasks one by one
+6.Tasks saved in JSON
+7.Clean terminal interface
+8.No external frameworks required
 Technologies / Tools Used:
 Python 3
 Built-in modules:
